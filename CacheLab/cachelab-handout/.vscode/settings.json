@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "getopt.h": "c",
+        "features.h": "c",
+        "getopt_core.h": "c",
+        "getopt_ext.h": "c",
+        "stdio.h": "c"
+    }
+}
